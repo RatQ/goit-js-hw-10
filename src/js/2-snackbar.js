@@ -6,7 +6,6 @@ import checkIcon from '../img/check.svg';
 const form = document.querySelector('form');
 const delayInput = document.querySelector('input[name="delay"]');
 const stateInputs = document.querySelectorAll('input[name="state"]');
-
 delayInput.step = 1000;
 delayInput.min = 1000;
 delayInput.value = 1000;

@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   margin: 0 auto;
   background-color: #fff;
@@ -10,12 +9,10 @@ body {
   line-height: 1.5;
   color: #2e2f42;
 }
-
 .back-link {
   display: block;
   margin-bottom: 50px;
 }
-
 .page-link {
   font-size: 40px;
 }
